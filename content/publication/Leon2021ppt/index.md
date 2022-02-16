@@ -6,7 +6,7 @@ author_notes:
 authors:
 - admin
 - García-Martínez, I
-# date: "2021-11-01T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.compedu.2021.104283"
 featured: false
 image:
@@ -20,7 +20,8 @@ publication_types:
 - "2"
 publishDate: "2021-01-01T00:00:00Z"
 slides: example
-summary: Impact of the provision of PowerPoint slides on learning.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
 title: Impact of the provision of PowerPoint slides on learning
