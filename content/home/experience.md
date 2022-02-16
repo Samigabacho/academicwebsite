@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiencia profesional
 subtitle:
 
 # Date format for experience
@@ -22,29 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Profesor AYD
+    company: Universidad de Jaén
+    company_url: 'https://www.ujaen.es/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Jaén
+    date_start: '2017-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: PDI
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Director del Máster en Psicopedagogía
+    company: Universidad Internacional de la Rioja (UNIR)
+    company_url: 'https://www.unir.net/educacion/master-psicopedagogia/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Logroño
+    date_start: '2014-01-01'
+    date_end: '2017-08-31'
+    description: |2-
+        Trabajo desarrollado:
+        
+        * Cordinación Académico del Máster
+        * Personal docente en el Máster
+  - title: Estudiante Pre/Post Doctoral 
+    company: Universidad de Jaén
+    company_url: 'https://www.ujaen.es/'
+    company_logo: org-gc
+    location: Jaén
+    date_start: '2008-09-01'
+    date_end: '2012-08-31'
+    description: Becario FPI
 design:
   columns: '2'
 ---
