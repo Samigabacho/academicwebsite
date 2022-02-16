@@ -20,28 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: sparra@ujaen.es
+phone: +34 953 211 808
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Paraje de las Lagunillas s/n
+  city: Jaén
+  region: Andalucía
+  postcode: '23071'
+  country: España
+  country_code: ES
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '15.93838'
+  longitude: '15.93838'
+directions: Edificio C5 - Despacho 232
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Mañana 9:30 to 13:30'
+  - 'Tarde (algunas) 17:30 to 19:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/SamuelPLeon'
   - icon: skype
     icon_pack: fab
     name: Skype Me
@@ -58,13 +58,13 @@ contact_links:
 # Site header
 
 main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+  enable: true # Display the navigation bar?
+  align: l # Align menu links: left (l), center (c), or right (r)
+  show_logo: true  # Display your site title or `assets/media/logo*` image in the nav bar?
+  show_language: false # If `show_translations` is enabled, do you wish to display the current language name?
+  show_day_night: true # Let the user override the default light/dark mode of your theme?
+  show_search: true # Let the user search from the nav bar?
+  highlight_active_link: true # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
 
 # Localization
 
