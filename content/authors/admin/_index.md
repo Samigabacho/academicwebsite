@@ -54,4 +54,4 @@ Samuel P. León es profesor del área de Métodos de Investigación en Educació
 
 Es Doctor en Educación y Doctor en Psicología por la Universidad de Jáen, así como Licenciado en Psicopedagogía y Maestro.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Dercarga mi  {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -25,16 +25,16 @@ experience:
   - title: Profesor AYD
     company: Universidad de Jaén
     company_url: 'https://www.ujaen.es/'
-    company_logo: org-gc
+    company_logo: uja1
     location: Jaén
     date_start: '2017-09-01'
     date_end: ''
-    description: PDI
+    description: Personal Docente Investigador
         
   - title: Director del Máster en Psicopedagogía
     company: Universidad Internacional de la Rioja (UNIR)
     company_url: 'https://www.unir.net/educacion/master-psicopedagogia/'
-    company_logo: org-x
+    company_logo: unir
     location: Logroño
     date_start: '2014-01-01'
     date_end: '2017-08-31'
@@ -46,7 +46,7 @@ experience:
   - title: Estudiante Pre/Post Doctoral 
     company: Universidad de Jaén
     company_url: 'https://www.ujaen.es/'
-    company_logo: org-gc
+    company_logo: uja1
     location: Jaén
     date_start: '2008-09-01'
     date_end: '2012-08-31'
