@@ -1,5 +1,5 @@
 ---
-abstract: PowerPoint is a basic tool for university teaching. Teachers use it extensively for presenting material. At times, it is used as a guide for organizing lessons, at other times it is used with the intention of summarizing essential curricular content. The way in which PowerPoint is used and the form it takes differs between faculties. The present article aims to evaluate the impact of the provision of slides on student academic performance and attendance (regardless of test scores). For this purpose, a quasi-experimental study was carried out with two intrasubject manipulated learning situations in which copies of slides created by teachers were, or were not, made available to students prior to class sessions. Additionally, student academic engagement and study strategies were assessed using two scales in order to analyse whether these variables modified the relationship between access to slides and academic performance. Outcomes revealed that access to slides developed by teachers had a negative impact on student performance and attendance to classes. Student academic engagement and study strategies were found to modify the relationship between academic performance and access to slides.
+abstract: This study examines the influence of punitive parental discipline on child-to-parent violence (CPV). The moderating roles of parental context (stress and parental ineffectiveness), mode of implementation of parental discipline (parental impulsivity or warmth/support) and the gender of the aggressor in the relationship between punitive discipline and CPV are examined. The study included 1543 university students between 18 and 25 years old (50.2% males, Mage = 19.9 years, SD = 1.9) who retrospectively described their experience between the ages of 12 and 17 years old. The results indicated that stress, ineffectiveness and parental impulsivity increase the negative effect of punitive discipline on CPV. There is no moderating effect of parental warmth/support. The gender of the aggressor is only a moderator in the case of violence toward the father, and the effect of punitive discipline is stronger in males than in females. The study draws conclusions regarding the importance of context and the mode by which parents discipline their children, aspects that can aggravate the adverse effects of physical and psychological punishment on CPV. It is necessary for interventions to focus not only on promoting positive disciplinary strategies but also on the mode in which they are administered and on contextual aspects.
 author_notes:
 - 
 - 
@@ -21,11 +21,10 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-12-01T00:00:00Z"
-slides: 
-summary: Relationship between Punitive Discipline and Child-to-Parent Violence: The Moderating Role of the Context and Implementation of Parenting Practices.
+summary: Relationship between Punitive Discipline and Child-to-Parent Violence The Moderating Role of the Context and Implementation of Parenting Practices.
 tags:
 - Source Themes
-title: Relationship between Punitive Discipline and Child-to-Parent Violence: The Moderating Role of the Context and Implementation of Parenting Practices
+title: Relationship between Punitive Discipline and Child-to-Parent Violence The Moderating Role of the Context and Implementation of Parenting Practices
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.mdpi.com/1660-4601/19/1/182/pdf
