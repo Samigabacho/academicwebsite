@@ -1,5 +1,5 @@
 ---
-bio: MMis intereses de investigación están enfocados en la Educación Basada en la Evidencia científica.
+bio: Mis intereses de investigación están enfocados en la Educación Basada en la Evidencia científica.
 education:
   courses:
   - course: PhD en Educación
