@@ -21,10 +21,10 @@ publication_types:
 - "2"
 publishDate: "2021-07-01T00:00:00Z"
 slides: example
-summary: A valid evaluation of the theory of multiple intelligences is not yet possible: problems of methodological quality for intervention studies.
+summary: A valid evaluation of the theory of multiple intelligences is not yet possible, problems of methodological quality for intervention studies.
 tags:
 - Source Themes
-title: A valid evaluation of the theory of multiple intelligences is not yet possible: problems of methodological quality for intervention studies
+title: A valid evaluation of the theory of multiple intelligences is not yet possible, problems of methodological quality for intervention studies
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0160289621000507/pdfft?md5=a4856781e33504cc51cb9b0d0725ac8e&pid=1-s2.0-S0160289621000507-main.pdf

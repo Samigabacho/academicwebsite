@@ -47,7 +47,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/samuel-parra-le%C3%B3n-75a40b98/
 superuser: true
-title: Samuel P. León
+title: León P., Samuel
 ---
 
 Samuel P. León es profesor del área de Métodos de Investigación en Educación en el Departamento de Pedagogía de la Universidad de Jaén. Sus intereses de investigación está relacionados con la Investigación informadad desde la Educación. Está interesado en la obtención y trasferencia de evidencias científicas provinientes de la investigación educativa para la mejora de la práctica docente.
