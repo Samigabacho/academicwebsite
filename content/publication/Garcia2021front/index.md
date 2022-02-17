@@ -25,7 +25,7 @@ slides: example
 summary: Self-Concept as a Mediator of the Relation Between University Students’ Resilience and Academic Achievement.
 tags:
 - Source Themes
-title: Self-Concept as a Mediator of the Relation Between University Students’ Resilience and Academic Achievement.
+title: Self-Concept as a Mediator of the Relation Between University Students’ Resilience and Academic Achievement
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.747168/pdf
