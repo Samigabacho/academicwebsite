@@ -11,16 +11,16 @@ main:
     url: '#projects'
     weight: 20
   - name: Publicaciones
-    url: '#publications'
+    url: publication/
     weight: 30
+  - name: Docencia
+    url: courses/
+    weight: 40
   - name: Posts
     url: '#posts'
-    weight: 40
+    weight: 50
   - name: Talks
     url: '#talks'
-    weight: 50
-  - name: Courses
-    url: courses/
     weight: 60
   - name: Contact
     url: '#contact'
