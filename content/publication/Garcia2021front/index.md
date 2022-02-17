@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*. Frontiers in Psychology, 12*, 747168'
+publication: '*Frontiers in Psychology, 12*, 747168'
 publication_short: ""
 publication_types:
 - "2"
