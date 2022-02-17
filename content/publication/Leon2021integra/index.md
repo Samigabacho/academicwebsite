@@ -5,45 +5,32 @@ author_notes:
 - 
 authors:
 - admin
-- otro
-- otro
+- Barroso-Carballo, S
 - García-Martínez, I
 date: "2021-11-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.compedu.2021.104283"
+doi: "https://doi.org/10.1080/13603116.2021.1995904"
 featured: false
 image:
   caption: '' #'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Integracion, 173* (104283)'
+publication: '*International Journal of Inclusive Education*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-08-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Social Inclusive Education in Secondary Schools. A Student's Perspective Approach.
 tags:
 - Source Themes
-title: Integracion
+title: Social Inclusive Education in Secondary Schools. A Student's Perspective Approach
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1016/j.compedu.2021.104283
+url_pdf: https://doi.org/10.1080/13603116.2021.1995904
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
