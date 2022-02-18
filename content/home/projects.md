@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
 title: Projects
 subtitle: ''
@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Educación
-    tag: Deep Learning
+    tag: educacion
   - name: Other
     tag: Demo
 

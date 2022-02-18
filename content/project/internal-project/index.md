@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-04-27T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -8,24 +8,28 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/SamuelPLeon
 slides: example
-summary: An example of using the in-built project page.
+summary: "Investigatión educativa enfocada en la mejora de la práctica docente".
 tags:
-- Deep Learning
-title: Internal Project
+- educacion
+title: Research in the service of educational practice
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Si esperamos que los tratamientos médicos sean eficaces, ¿por qué no exigir lo mismo de los métodos educativos? Inteligencias múltiples, neuroeducación, proyectos, colegios sin deberes… Cada día se aplican en las aulas sistemas bien evaluados que aportan resultados positivos para los alumnos, y otros que han demostrado ser inútiles o que ni siquiera se han investigado.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+La mayoría de padres y madres jamás daría a su hijo un fármaco que no hubiera pasado antes todos los controles, una sabia precaución que debería mantenerse al hablar de pedagogía. A la investigadora de la Universidad de Deusto Marta Ferrero le gusta hacer esta analogía con la medicina. Es una firme defensora de la educación basada en la evidencia: “Las modas educativas son un fenómeno creciente, pero a menudo no van acompañadas de pruebas que justifiquen su uso”, explica a Sinc.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Como sucede con las pseudomedicinas, las consecuencias de un mal método van desde la pérdida de tiempo y dinero hasta el daño directo. “Algunas metodologías pueden ser perjudiciales al retrasar el aprendizaje o incluso causar problemas físicos. No podemos jugar a ensayo y error en los colegios”, dice Ferrero. La evaluación rigurosa de las nuevas propuestas es necesaria, pero nada sencilla.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+“Hoy en día es muy difícil llevar a cabo una educación basada en la evidencia científica porque para eso hace falta un enorme trabajo previo”, lamenta Juan Cruz, maestro y orientador en el Colegio Santa María la Real de Sarriguren (Navarra). Encontrar datos –si existen siquiera– e interpretarlos es una tarea que, en su opinión, no corresponde a los maestros: “Ellos deberían tomar una decisión con la información existente, pero no disponen de formación ni de las herramientas necesarias”.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+La psicopedagoga Marta Ferrero ha analizado los planes de educación de las escuelas de magisterio, con la conclusión de que la formación en investigación y estadística que se da a los futuros maestros “es muy deficiente”. Un primer paso, en su opinión, sería enseñarles a diferenciar un estudio riguroso de otro malo, a buscar fuentes fiables y a leer datos como “método de prevención” que ayude a “no creerse cualquier cosa que les vendan”.
+
+Es difícil distinguir los métodos alternativos de los tradicionales. “No hay un organismo que los catalogue, así que cada uno pone la etiqueta que le parece”, comenta Cruz. “Me sorprende que se definan como alternativos métodos como el Montessori, creado hace más de un siglo”. Por ello, prefiere diferenciar entre metodologías que se han investigado con resultados positivos, otras sin resultados y aquellas que no han sido estudiadas.
+
+Tampoco está claro que “las metodologías sean las mismas en unos centros y otros aunque se llamen igual”, en palabras del investigador de la Universidad Autónoma de Madrid Jesús Rogero. “La educación por proyectos, por ejemplo, es una etiqueta que se pone a muchas prácticas”.
