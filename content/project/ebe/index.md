@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/SamuelPLeon
 slides: example
-summary: "Investigatión educativa enfocada en la mejora de la práctica docente".
+summary: "Investigatión educativa enfocada en la mejora de la práctica docente"
 tags:
 - educacion
 title: Research in the service of educational practice
