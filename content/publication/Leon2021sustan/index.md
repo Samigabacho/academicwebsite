@@ -5,8 +5,9 @@ author_notes:
 - 
 authors:
 - admin
-- Augusto-Landa, J.M., 
-- García-Martínez, I
+- Augusto-Landa JM
+- García-Martínez I
+
 date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.3390/su13084199"
 featured: false
@@ -14,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Evaluation of self-assessment in an educational context]
 publication: '*Sustainability, 13* (8)'
 publication_short: ""
 publication_types:
@@ -23,7 +24,9 @@ publishDate: "2021-04-01T00:00:00Z"
 slides: example
 summary: "Moderating factors in university students’ self-evaluation for sustainability"
 tags:
-- Source Themes
+- Self Assessment
+- Variability
+
 title: "Moderating factors in university students’ self-evaluation for sustainability"
 url_code: ""
 url_dataset: ""
