@@ -20,4 +20,4 @@ url_slides: ""
 url_video: ""
 ---
 
-FOrmación de profesorado
+Formación de profesorado

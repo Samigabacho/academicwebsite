@@ -20,7 +20,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Si esperamos que los tratamientos médicos sean eficaces, ¿por qué no exigir lo mismo de los métodos educativos? Inteligencias múltiples, neuroeducación, proyectos, colegios sin deberes… Cada día se aplican en las aulas sistemas bien evaluados que aportan resultados positivos para los alumnos, y otros que han demostrado ser inútiles o que ni siquiera se han investigado.
+"Si esperamos que los tratamientos médicos sean eficaces, ¿por qué no exigir lo mismo de los métodos educativos? Inteligencias múltiples, neuroeducación, proyectos, colegios sin deberes… Cada día se aplican en las aulas sistemas bien evaluados que aportan resultados positivos para los alumnos, y otros que han demostrado ser inútiles o que ni siquiera se han investigado.
 
 La mayoría de padres y madres jamás daría a su hijo un fármaco que no hubiera pasado antes todos los controles, una sabia precaución que debería mantenerse al hablar de pedagogía. A la investigadora de la Universidad de Deusto Marta Ferrero le gusta hacer esta analogía con la medicina. Es una firme defensora de la educación basada en la evidencia: “Las modas educativas son un fenómeno creciente, pero a menudo no van acompañadas de pruebas que justifiquen su uso”, explica a Sinc.
 
@@ -32,4 +32,4 @@ La psicopedagoga Marta Ferrero ha analizado los planes de educación de las escu
 
 Es difícil distinguir los métodos alternativos de los tradicionales. “No hay un organismo que los catalogue, así que cada uno pone la etiqueta que le parece”, comenta Cruz. “Me sorprende que se definan como alternativos métodos como el Montessori, creado hace más de un siglo”. Por ello, prefiere diferenciar entre metodologías que se han investigado con resultados positivos, otras sin resultados y aquellas que no han sido estudiadas.
 
-Tampoco está claro que “las metodologías sean las mismas en unos centros y otros aunque se llamen igual”, en palabras del investigador de la Universidad Autónoma de Madrid Jesús Rogero. “La educación por proyectos, por ejemplo, es una etiqueta que se pone a muchas prácticas”.
+Tampoco está claro que “las metodologías sean las mismas en unos centros y otros aunque se llamen igual”, en palabras del investigador de la Universidad Autónoma de Madrid Jesús Rogero. “La educación por proyectos, por ejemplo, es una etiqueta que se pone a muchas prácticas”."
