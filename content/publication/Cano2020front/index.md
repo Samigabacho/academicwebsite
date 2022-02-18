@@ -4,10 +4,10 @@ author_notes:
 - 
 - 
 authors:
-- Cano-Lozano, M. C
-- Rodríguez-Díaz, F.J.
+- Cano-Lozano C
+- Rodríguez-Díaz  F J
 - admin
-- Contreras, L.
+- Contreras L
 date: "2020-11-01T00:00:00Z"
 doi: "https://doi.org/10.3389/fpsyg.2020.590097"
 featured: false
@@ -15,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Child-to-parent violence: Analysis of differential profiles]
 publication: '*Frontiers in psychology, 11*'
 publication_short: ""
 publication_types:
@@ -23,7 +23,7 @@ publication_types:
 publishDate: "2020-11-01T00:00:00Z"
 summary: "Analyzing the relationship between child-to-parent violence and perceived parental warmth"
 tags:
-- Source Themes
+- Child-to-Parent Violence
 title: "Analyzing the relationship between child-to-parent violence and perceived parental warmth"
 url_code: ""
 url_dataset: ""

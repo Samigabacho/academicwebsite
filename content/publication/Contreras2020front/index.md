@@ -4,9 +4,10 @@ author_notes:
 -
 -
 authors:
-- Contreras, L.
+- Contreras L
 - admin
-- Cano-Lozano, M.C.
+- Cano-Lozano M C
+
 date: "2020-11-01T00:00:00Z"
 doi: "https://doi.org/10.3389/fpsyg.2020.604956"
 featured: false
@@ -14,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Child-to-parent violence: Analysis of differential profiles]
 publication: '*Frontiers in psychology*'
 publication_short: ""
 publication_types:
@@ -22,7 +23,7 @@ publication_types:
 publishDate: "2021-12-01T00:00:00Z"
 summary: "Assessing Child-to-Parent Violence With the Child-to-Parent Violence Questionnaire, Parents’ Version (CPV-QP): Factor Structure, Prevalence, and Reasons"
 tags:
-- Source Themes
+- Child-to-Parent Violence
 title: "Assessing Child-to-Parent Violence With the Child-to-Parent Violence Questionnaire, Parents’ Version (CPV-QP): Factor Structure, Prevalence, and Reasons"
 url_code: ""
 url_dataset: ""

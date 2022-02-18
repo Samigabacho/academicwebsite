@@ -4,8 +4,9 @@ author_notes:
 - 
 - 
 authors:
-- Gámez, A. M.
+- Gámez AM
 - admin
+
 date: "2020-04-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.beproc.2020.104121"
 featured: false
@@ -13,7 +14,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Experimental psychology]
 publication: '*Behavioural Processes, 175*'
 publication_short: ""
 publication_types:
@@ -21,7 +22,7 @@ publication_types:
 publishDate: "2020-04-01T00:00:00Z"
 summary: "Preimaginal conditioning affects oviposition choices in the silkworm moth (Bombyx mori)"
 tags:
-- Source Themes
+- Invertebrates
 title: "Preimaginal conditioning affects oviposition choices in the silkworm moth (Bombyx mori)"
 url_code: ""
 url_dataset: ""

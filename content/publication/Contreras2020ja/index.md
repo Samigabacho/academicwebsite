@@ -14,9 +14,10 @@ author_notes:
 - 
 - 
 authors:
-- Contreras, L.
+- Contreras  L
 - admin
-- Cano-Lozano, M. C
+- Cano-Lozano M C
+
 date: "2020-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.adolescence.2020.01.017"
 featured: false
@@ -24,7 +25,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Child-to-parent violence: Analysis of differential profiles]
 publication: '*Journal of Adolescence, 80*'
 publication_short: ""
 publication_types:
@@ -32,7 +33,7 @@ publication_types:
 publishDate: "2020-01-01T00:00:00Z"
 summary: "Socio-cognitive variables involved in the relationship between violence exposure at home and child-to-parent violence"
 tags:
-- Source Themes
+- Child-to-Parent Violence
 title: "Socio-cognitive variables involved in the relationship between violence exposure at home and child-to-parent violence"
 url_code: ""
 url_dataset: ""

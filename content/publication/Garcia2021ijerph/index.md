@@ -4,9 +4,10 @@ author_notes:
 - 
 - 
 authors:
-- García-Martínez, I
-- Augusto-Landa, J.M., 
+- García-Martínez I
+- Augusto-Landa JM 
 - admin
+
 date: "2021-06-01T00:00:00Z"
 doi: "https://doi.org/10.3390/ijerph18126586"
 featured: false
@@ -14,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Teacher collaboration, school improvement and Teacher education]
 publication: '*International Journal of Environmental Research and Public Health, 18* (12)'
 publication_short: ""
 publication_types:
@@ -23,7 +24,9 @@ publishDate: "2021-06-01T00:00:00Z"
 slides: example
 summary: "The Mediating Role of Engagement on the Achievement and Quality of Life of University Students"
 tags:
-- Source Themes
+- Engagement
+- Emotional intelligence
+- Pre-service teachers
 title: "The Mediating Role of Engagement on the Achievement and Quality of Life of University Students"
 url_code: ""
 url_dataset: ""

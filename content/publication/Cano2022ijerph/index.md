@@ -4,9 +4,9 @@ author_notes:
 - 
 - 
 authors:
-- Cano-Lozano, M. C
+- Cano-Lozano M C
 - admin
-- Contreras, L.
+- Contreras L
 
 date: "2021-11-01T00:00:00Z"
 doi: "https://doi.org/10.3390/ijerph19010182"
@@ -15,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Child-to-parent violence: Analysis of differential profiles]
 publication: '*International Journal of Environmental Research and Public Health, 19* (1): 182'
 publication_short: ""
 publication_types:
@@ -23,7 +23,7 @@ publication_types:
 publishDate: "2021-12-01T00:00:00Z"
 summary: "Relationship between Punitive Discipline and Child-to-Parent Violence The Moderating Role of the Context and Implementation of Parenting Practices."
 tags:
-- Source Themes
+- Child-to-Parent Violence
 title: "Relationship between Punitive Discipline and Child-to-Parent Violence The Moderating Role of the Context and Implementation of Parenting Practices"
 url_code: ""
 url_dataset: ""

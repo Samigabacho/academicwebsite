@@ -4,9 +4,9 @@ author_notes:
 - 
 - 
 authors:
-- Cano-Lozano, M. C
+- Cano-Lozano  M C
 - admin
-- Contreras, L.
+- Contreras L
 
 date: "2021-11-01T00:00:00Z"
 doi: "https://doi.org/10.1111/fare.12567"
@@ -15,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Child-to-parent violence: Analysis of differential profiles]
 publication: '*Family Relations, 70* (4)'
 publication_short: ""
 publication_types:
@@ -23,7 +23,7 @@ publication_types:
 publishDate: "2021-12-01T00:00:00Z"
 summary: "Child-to-Parent violence: examining the frequency and reasons in spanish youth"
 tags:
-- Source Themes
+- Child-to-Parent Violence
 title: "Child-to-Parent violence: examining the frequency and reasons in spanish youth"
 url_code: ""
 url_dataset: ""

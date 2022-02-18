@@ -4,10 +4,10 @@ author_notes:
 - 
 - 
 authors:
-- García-Martínez, I
-- Gavín-Chocano, Ó
+- García-Martínez I
+- Gavín-Chocano Ó
 - admin
-- Ubago-Jiménez, J.L. 
+- Ubago-Jiménez JL 
 date: "2021-10-01T00:00:00Z"
 doi: "https://doi.org/10.3390/educsci11110659"
 featured: false
@@ -15,17 +15,20 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Teacher collaboration, school improvement and Teacher education]
 publication: '*Education Sciences, 11* 659'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-10-01T00:00:00Z"
 slides: example
-summary: Analysis of the Pre-Service Teachers’ Academic Stress Based on Their Self-Concept and Personality
+summary: "Analysis of the Pre-Service Teachers’ Academic Stress Based on Their Self-Concept and Personality"
 tags:
-- Source Themes
-title: Analysis of the Pre-Service Teachers’ Academic Stress Based on Their Self-Concept and Personality
+- Academic Stres
+- Self-Concept
+- Emotional intelligence
+- Pre-service teachers
+title: "Analysis of the Pre-Service Teachers’ Academic Stress Based on Their Self-Concept and Personality"
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.mdpi.com/2227-7102/11/11/659/pdf

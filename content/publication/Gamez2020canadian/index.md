@@ -4,10 +4,11 @@ author_notes:
 - 
 - 
 authors:
-- Gámez, A. M.
+- Gámez AM
 - admin
-- Moreno-Fernández, M. M.
-- Rosas, J. M. 
+- Moreno-Fernández MM
+- Rosas JM
+
 date: "2020-11-01T00:00:00Z"
 doi: "https://psycnet.apa.org/doi/10.1037/cep0000220"
 featured: false
@@ -15,7 +16,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Experimental psychology]
 publication: '*Canadian Journal of Experimental Psychology, 74* (3)'
 publication_short: ""
 publication_types:
@@ -23,7 +24,7 @@ publication_types:
 publishDate: "2021-12-01T00:00:00Z"
 summary: "The state of transfer of stimulus control after extinction in human instrumental conditioning: A key factor in therapy strategies based in nonhuman animal research"
 tags:
-- Source Themes
+- Instrumental learning
 title: "The state of transfer of stimulus control after extinction in human instrumental conditioning: A key factor in therapy strategies based in nonhuman animal research"
 url_code: ""
 url_dataset: ""

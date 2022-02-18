@@ -4,9 +4,10 @@ author_notes:
 - 
 - 
 authors:
-- Ferrero, M.
-- Vadillo, M.A.
+- Ferrero M
+- Vadillo M A
 - admin
+
 date: "2021-07-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.intell.2021.101566"
 featured: false
@@ -14,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Research in the service of educational practice]
 publication: '*Intelligence, 88* (1)'
 publication_short: ""
 publication_types:
@@ -23,7 +24,10 @@ publishDate: "2021-07-01T00:00:00Z"
 slides: example
 summary: "A valid evaluation of the theory of multiple intelligences is not yet possible: problems of methodological quality for intervention studies."
 tags:
-- Source Themes
+- Evidence-based education
+- Systematic review
+- Meta-analysis
+
 title: "A valid evaluation of the theory of multiple intelligences is not yet possible: problems of methodological quality for intervention studies."
 url_code: ""
 url_dataset: ""

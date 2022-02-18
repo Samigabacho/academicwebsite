@@ -4,9 +4,10 @@ author_notes:
 - 
 - 
 authors:
-- Ferrero, M.
-- Vadillo, M.A.
+- Ferrero M
+- Vadillo MA
 - admin
+
 date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0249627"
 featured: false
@@ -14,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Research in the service of educational practice]
 publication: '*PloS one, 16* (4)'
 publication_short: ""
 publication_types:
@@ -23,7 +24,8 @@ publishDate: "2021-04-01T00:00:00Z"
 slides: example
 summary: "Is project-based learning effective among kindergarten and elementary students? A systematic review."
 tags:
-- Source Themes
+- Evidence-based education
+- Systematic review
 title: "Is project-based learning effective among kindergarten and elementary students? A systematic review"
 url_code: ""
 url_dataset: ""

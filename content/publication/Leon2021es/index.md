@@ -5,8 +5,9 @@ author_notes:
 - 
 authors:
 - admin
-- Carcelén Fraile, M.d.C
-- García-Martínez, I.
+- Carcelén-Fraile MdC
+- García-Martínez I
+
 date: "2021-01-01T00:00:00Z"
 doi: "https://doi.org/10.3390/educsci11020083"
 featured: false
@@ -14,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Research in the service of educational practice]
 publication: '*Education Sciences, 11* (2)'
 publication_short: ""
 publication_types:
@@ -23,7 +24,9 @@ publishDate: "2021-01-01T00:00:00Z"
 slides: example
 summary: "Development of Cognitive Abilities through the Abacus in Primary Education Students: A Randomized Controlled Clinical Trial"
 tags:
-- Source Themes
+- Cognitive Abilities
+- Randomized Controlled Clinical Trial
+- Educational intervention
 title: "Development of Cognitive Abilities through the Abacus in Primary Education Students: A Randomized Controlled Clinical Trial"
 url_code: ""
 url_dataset: ""

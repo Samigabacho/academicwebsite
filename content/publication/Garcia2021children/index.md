@@ -4,9 +4,9 @@ author_notes:
 - 
 - 
 authors:
-- García-Martínez, I
-- Gutiérrez Cáceres, R.
-- Luque de la Rosa, A.
+- García-Martínez I
+- Gutiérrez Cáceres R
+- Luque de la Rosa A
 - admin
 date: "2021-05-01T00:00:00Z"
 doi: "https://doi.org/10.3390/children8050365"
@@ -15,7 +15,7 @@ image:
   caption: '' 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Research in the service of educational practice]
 publication: '*Children, 8* 365'
 publication_short: ""
 publication_types:
@@ -24,7 +24,9 @@ publishDate: "2021-05-01T00:00:00Z"
 slides: example
 summary: "Analysing educational interventions with gifted students. systematic review"
 tags:
-- Source Themes
+- Evidence-based education
+- Systematic review
+
 title: "Analysing educational interventions with gifted students. systematic review"
 url_code: ""
 url_dataset: ""
